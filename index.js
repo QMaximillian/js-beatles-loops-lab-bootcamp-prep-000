@@ -22,6 +22,7 @@ var i = 0
 function iLoveTheBeatles(number) {
   var newNumber = [];
   do {
+    newNumber.push("I love the Beatles");
 
   } while
 }
