@@ -10,8 +10,13 @@ return newArray
 
 
 function johnLennonFacts(facts){
-  while (facts.length > 0) {
-    return facts
-
+var newFacts = []
+var i = 0
+  while (facts.length > i) {
+    newFacts.push(facts[i] + "!!!")
+    i++
   }
+  return newFacts
 }
+
+function iLoveTheBeatles (number) {}
