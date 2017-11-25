@@ -20,5 +20,8 @@ var i = 0
 }
 
 function iLoveTheBeatles(number) {
-  var newNumber = []
+  var newNumber = [];
+  do {
+
+  } while
 }
